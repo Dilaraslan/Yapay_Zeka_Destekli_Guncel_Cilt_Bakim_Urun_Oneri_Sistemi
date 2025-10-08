@@ -78,6 +78,9 @@ Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü bitirme projesi olarak
 - CORS Middleware ile güvenli veri alışverişi
 - Responsive tasarım ile farklı cihaz desteği
 
+## Proje Tanıtım Videosu
+Projenin kısa tanıtımını [buradan izleyebilirsiniz](https://youtu.be/yYTlYJhYurQ?si=zS35NeWCBuL87l4j).
+
 ## Teşekkür
 Bu projenin geliştirilmesinde değerli yönlendirmeleri için danışmanımız **Arş. Gör. Gökhan Azizoğlu**'na teşekkür ederiz.
 
